@@ -16,7 +16,7 @@ This is a solution to the Solo project: Tenzies Game on Scrimba.
 
 ## Screenshot
 
-![Notes Theme](../frontend/src/images/screenshot.png)
+![Notes Theme](https://github.com/joao82/Scrimba-tenzies/blob/main/src/images/screenshot.png)
 
 ## Links
 
